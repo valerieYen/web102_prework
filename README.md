@@ -46,7 +46,7 @@ Describe any challenges encountered while building the app:
 
 if you are interested in seeing how i tracked my work, i wrote EVERYTHING in this doc:
 <a href="https://docs.google.com/document/d/1SmhQ9c-5z2dwTk5F_zk79F6WTkXvY8tLfLMd5vfQ5_s/edit?usp=sharing">
-<img width= "100px" src = "https://pbs.twimg.com/media/GI8YGIlW8AAB-R8.jpg:large">
+<img width= "300px" src = "https://pbs.twimg.com/media/GI8YGIlW8AAB-R8.jpg:large">
 <p font-size = "8px">(you can click on the cat)</p>
 </a>
 
