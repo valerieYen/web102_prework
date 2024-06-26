@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app:
 
 - So I just took CMSC330 at UMD which is organization of programming languages and we learned about HOFs.
   I can't lie, I got real scared the minute i saw the word "accumulator" in the reduce function explanation. I looked like this meme ↓ ↓ ↓
-  <img src = "https://content.imageresizer.com/images/memes/War-Flashback-meme-89w11f.jpg" width='50px' alt='its the war flashbacks meme from tik tok' />
+  <img src = "https://media.tenor.com/KfL05fPVK-4AAAAe/war-vietnam.png" width='50px' alt='its the war flashbacks meme from tik tok' />
 - <em>HOWEVER,</em> after reading through it i realized i was just in my head and it honestly made a lot more sense in js than in ocaml (...that class was ROUGH)
 - Additionally, I am self taught in js so there are some more nitty-gritty language-structual things i had to google to understand (like usages of const vs. var cus in my brain i was thinking of it like java and c)
 
