@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Krackin
 
 Submitted by: Valerie May Yen
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Krackin is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **5** hours spent in total (this is a guesstimate, i spaced it out over two days)
+Time spent: **5** hours spent in total <em>(this is a guesstimate, i spaced it out over two days)</em>
 
 ## Required Features
 
