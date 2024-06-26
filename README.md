@@ -38,7 +38,8 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 Describe any challenges encountered while building the app:
 
 - So i just took CMSC330 at UMD which is organization of programming languages and we learned about HOFs.
-  i can't lie, i got real scared the minute i saw the word "accumulator" in the reduce function explanation. i looked like this meme ==>
+  i can't lie, i got real scared the minute i saw the word "accumulator" in the reduce function explanation. i looked like this meme
+  
   <img src = "https://media.tenor.com/KfL05fPVK-4AAAAe/war-vietnam.png" width='50px' alt='its the war flashbacks meme from tik tok' />
 - <em>HOWEVER,</em> after reading through it i realized i was just in my head and it honestly made a lot more sense in js than in ocaml (...that class was ROUGH)
 - Additionally, i am self taught in js so there are some more nitty-gritty language-structual things i had to google to understand (like usages of const vs. var cus in my brain i was thinking of it like java and c)
