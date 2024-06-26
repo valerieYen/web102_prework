@@ -44,6 +44,11 @@ Describe any challenges encountered while building the app:
 - <em>HOWEVER,</em> after reading through it i realized i was just in my head and it honestly made a lot more sense in js than in ocaml (...that class was ROUGH)
 - Additionally, i am self taught in js so there are some more nitty-gritty language-structual things i had to google to understand (like usages of const vs. var cus in my brain i was thinking of it like java and c)
 
+if you are interested in seeing how i tracked me work, i wrote EVERYTHING in this doc:
+<a href="https://docs.google.com/document/d/1SmhQ9c-5z2dwTk5F_zk79F6WTkXvY8tLfLMd5vfQ5_s/edit?usp=sharing">
+<img src = "https://pbs.twimg.com/media/GI8YGIlW8AAB-R8.jpg:large">
+<p width= "100px">(you can click on the cat)</p>
+</a>
 
 ## License
 
