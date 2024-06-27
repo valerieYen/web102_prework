@@ -80,4 +80,24 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    transition: transform 0.3s ease;
+}
+
+button:hover {
+    font-family: 'Cabin';
+    border: none;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 7px;
+    border: solid #404c5b 3px;
+    transform: scale(1.1, 1.1);
+}
+
+button:active {
+    font-family: 'Cabin';
+    padding: 1%;
+    margin: 1%;
+    border-radius: 7px;
+    border: solid white 3px;
+    background-color: #a8b0bc;
 }
